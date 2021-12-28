@@ -1,1 +1,2 @@
-test: echo "Hello World"
+test: 
+    run: echo "Hello World"
